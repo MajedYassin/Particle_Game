@@ -1,3 +1,0 @@
-/home/majed/CLionProjects/Particle_Reactor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/majed/CLionProjects/Particle_Reactor/cmake-build-debug/CMakeFiles/Particle_Reactor.dir
-/home/majed/CLionProjects/Particle_Reactor/cmake-build-debug/CMakeFiles/edit_cache.dir
